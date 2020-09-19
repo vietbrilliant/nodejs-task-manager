@@ -1,6 +1,6 @@
 # Task Manager App
 
-What are included in this project
+What are included in this project?
 
 1/ Exploring NodeJs
 
@@ -17,4 +17,3 @@ What are included in this project
 7/ Sending email
 
 8/ Deploy to Heroku
-
