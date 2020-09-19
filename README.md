@@ -1,4 +1,4 @@
-# task-manager app
+# Task Manager App
 
 What are included in this project
 
